@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "impute"]
-	path = impute
-	url = https://git.bioconductor.org/packages/impute
 [submodule "locfdr"]
 	path = locfdr
 	url = https://github.com/cran/locfdr
